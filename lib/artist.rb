@@ -1,3 +1,4 @@
 class Artist
-  @name = name
+  attr_accessor :name
+  
 end
